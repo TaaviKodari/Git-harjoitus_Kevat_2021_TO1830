@@ -1,3 +1,7 @@
 moi,
 
-tämä on git-harjoitus
+tämä on git-harjoitus.
+
+Tämä on upea esimerkki.
+
+Nyt lähetän tämän takaisin gittiin.
